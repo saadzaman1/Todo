@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpie
+requests
+httpx
+sqlalchemy
+psycopg2-binary
+streamlit
+axios
